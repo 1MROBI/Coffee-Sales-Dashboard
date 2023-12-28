@@ -1,5 +1,5 @@
 # ☕️ Coffee-Sales-Dashboard
-Using Excel dashboard for concise, visual data analysis and reporting.
+Using MS-Excel to build Interactive dashboard for concise, visual data analysis and reporting.
 
 ## Overview
 
